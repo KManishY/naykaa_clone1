@@ -1,0 +1,27 @@
+ <div id="cartData">
+        <div id="cart_top">
+            <div id="backbtn"><span id="cartBack" class="material-symbols-outlined">
+                    arrow_back_ios
+                </span></div>
+            <div id="top_heading">
+                <h3>Shopping Bag</h3>
+            </div>
+        </div>
+        <!-- ---------------------------------------------------------------------------------------- -->
+        <div id="emptyCart">
+            <div id="img"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDEghM27MNcLyhe2wtbvkKsKICSXwUXWspjVhRfjyRZHhn1QjacasrhrBUwnEq8uSfNGY&usqp=CAU" alt="">
+            </div>
+            <div id="empty_txt">
+                <p>Your Shopping Bag is empty</p>
+            </div>
+            <div id="shopBtn"><button id="shopping_btn"> Start Shopping > </button></div>
+        </div>
+        <!-- ---------------------------------------------------------------------------------------- -->
+        <div id="cartProduct"> </div>
+        <!--append from local storage  -->
+
+        <div id="cartBottam">
+            <div id="grandTotal">grandTotal</div>
+            <div id="proceed"><button id="proceedBtn"><a href="/checkout/checkout.html">Proceed</a></button></div>
+        </div>
+    </div>

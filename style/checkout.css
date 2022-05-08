@@ -1,0 +1,100 @@
+#topContainer{
+     width:auto;
+      display: flex;
+      /* gap: 20px; */
+      /* justify-content: center ; */
+      /* border: 1px solid  red; */
+      margin-left: 227px;
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#naykaaLogo{
+      /* border: 1px solid  blue; */
+      /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+      width: 12%;
+      height:100px;
+}
+#naykaaLogo>img{
+      margin: 30px;
+      
+      width: 40%;
+       height:40%;
+
+}
+#login{
+      /* border: 1px solid black; */
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+      width: 12%;
+      height:100px;
+      
+}
+#address{
+      /* border: 1px solid blue; */
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+      width: 12%;
+      height:100px;
+      
+}
+#payment{
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+      /* border: 1px solid black; */
+      width: 12%;
+      height:100px;
+      
+}
+#bottamContainer{
+      width:60%;
+      /* gap: 10px; */
+      margin:auto;
+}
+#bottamContainer>p{
+      margin-left: 77px;
+      font-weight: bold;
+}
+#paymentContainer{
+      gap: 10px;
+}
+#checkoutBottam{
+      display: flex;
+      justify-content:space-around
+}
+.btm{
+      display:flex;
+      align-items: center;
+      gap:50px;
+}
+
+
+
+
+
+#bottamContainerKiChild{
+      /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+      display: flex;
+      margin-top: 10px;
+      gap: 2px;
+      justify-content: center;
+      /* border: 1px solid  green; */
+      
+      
+}
+#savedAddress{
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+      /* border: 1px solid blue; */
+      width: 30%;
+      /* height:600px; */
+      
+}
+#addressForm{
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+      /* border: 1px solid black; */
+      width: 30%;
+      /* height:600px; */
+}
+.brNone{
+      text-decoration: none;
+      border:none;
+}
+#cart{
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+      width: 30%;      
+}

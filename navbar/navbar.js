@@ -76,13 +76,13 @@ let navbar =() =>{
         <div>Account</div>
       </div>
         
-         <div><i class="fa fa-shopping-bag fa-lg" aria-hidden="true" style="color: black ;size:60px;"></i></div>
+         <div id = "cart"><i class="fa fa-shopping-bag fa-lg" aria-hidden="true" style="color: black ;size:60px;"></i></div>
      </div>
 </div>
 
 
 
-    `
+    `;
     }
 
 
