@@ -33,7 +33,6 @@ console.log("cartData: ", cartData);
 
 
 
-// // // let sum = 0;
 // cartData.forEach(function (el) {
 //       let productDiv = document.createElement("div");
 //       productDiv.setAttribute("id", "productDiv");
